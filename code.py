@@ -1,2 +1,2 @@
 print("Hello World")
-print("Git is shit!")
+print(2+2)
